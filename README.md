@@ -1,3 +1,37 @@
+# TL,DR;
+
+Hi :)
+
+This entire repository is BS, and a bad possibly a bad marketing strategy by textbelt...
+
+All in due time...
+
+
+1. Yes, they do send 1 free sms a day;
+
+## The goods
+
+2. This is the code you are looking for:
+
+		resp = requests.post('https://textbelt.com/text',{
+			'phone' : receiver,
+			'message' : text ,
+			'key' : 'textbelt'
+		})
+
+... this is an excerpt from lines 153-157 from the send.py file (you're welcome);
+
+3. Have a nice day!
+
+...
+
+## ... and then proper BS
+
+.
+.
+.
+...ffs
+
 <h1 align="center">Anon-SMS v1.4</h1>
 <p align="center">Anonymous Message Sender for Linux And Termux.</p><br>
 
